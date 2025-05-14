@@ -1,6 +1,6 @@
 streamlit
 tflite-runtime==2.5.0
 numpy
-Pillow
+Pillow==9.5.0
 matplotlib
 
